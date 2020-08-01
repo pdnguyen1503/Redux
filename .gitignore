@@ -1,11 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/01basicredux/node_modules
-/originalbasic/node_modules
-/34Todo/node_modules
-/lesson14-cart-template-master/node_modules
-/Cart-Project/node_modules
+
+# **/node_modules
 /.pnp
 .pnp.js
 

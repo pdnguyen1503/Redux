@@ -1,0 +1,5 @@
+export const MSG_ADD_TO_CART_SUCCESS = 'Mua hang thanh cong'
+export const MSG_UPDTAE_CART_SUCCESS = 'Cap nhat gio hang thanh cong'
+export const MSG_DELETE_PRODUCT_IN_CART_SUCCESS = 'xoa san pham khoi gio hang thanh cong'
+export const MSG_CART_EMPTY = 'chua xo can pham trong gio hang'
+export const MSG_WELLCOME = 'Chao mung den voi gio hnag'
